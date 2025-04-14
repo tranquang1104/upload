@@ -694,7 +694,7 @@ public class frmTrangChu extends JFrame implements MouseListener{
         		moMenuBar();
         	}
         });
-        btnMoMenu.setIcon(new ImageIcon(frmTrangChu.class.getResource("/icon/iconMenu.png")));
+        btnMoMenu.setIcon(new ImageIcon(frmTrangChu.class.getResource("/icon/iconmenu.png")));
 	
         controlFlag = pnlTrangChu;
         

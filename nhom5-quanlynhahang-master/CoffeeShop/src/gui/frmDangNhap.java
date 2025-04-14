@@ -89,7 +89,7 @@ public class frmDangNhap extends javax.swing.JFrame {
         lblTen.setText("Minty Coffee");
         
         JLabel lblLogo = new JLabel("");
-        lblLogo.setIcon(new ImageIcon(frmDangNhap.class.getResource("/icon/logo.jpg")));
+        lblLogo.setIcon(new ImageIcon(frmDangNhap.class.getResource("/icon/iconlogo.png")));
         lblLogo.setBounds(34, 43, 341, 281);
 
         jPanel1.add(Right);
